@@ -51,6 +51,7 @@ USAGE
 if __name__ == "__main__":
     file_path = "/your/folder/path"
     transcribe_videos_in_folder(file_path)
+
 REQUIREMENTS
 
 • Python 3.8+
