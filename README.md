@@ -1,4 +1,7 @@
-video_to_text is a Python-based script designed to automatically transcribe audio and video files into text using OpenAI’s Whisper speech recognition model. It supports multiple file formats, leverages GPU acceleration (if available), and is tailored for Turkish language transcription. The tool is ideal for researchers, journalists, content creators, or anyone who needs fast and accurate transcription from media files.
+This file is python-based script designed to automatically transcribe audio and video files into text using OpenAI’s Whisper speech recognition model. It supports multiple file formats, leverages GPU acceleration (if available), and is tailored for Turkish language transcription by default. However, Whisper supports over 90 languages, so you can easily modify the script to transcribe content in any language you prefer. 
+
+The tool is ideal for researchers, journalists, content creators, or anyone who needs fast and accurate transcription from media files.
+
 
 ---
 
